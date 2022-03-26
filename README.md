@@ -1,2 +1,3 @@
-# config_repo
-config repo for hw6 in secion12 within server development course
+# section12
+## 配置服务、服务编排
+
